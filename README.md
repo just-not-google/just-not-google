@@ -1,5 +1,8 @@
 # just-not-google
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
 <details>
 <summary>🇬🇧 English</summary>
 
