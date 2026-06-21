@@ -1,8 +1,7 @@
+# just-not-google
 
 <details>
 <summary>🇬🇧 English</summary>
-
-# Hi, I'm just-not-google
 
 > **Not Google, but I also help people find what they're looking for — without the noise.**
 
@@ -28,8 +27,6 @@ I stand for clean code, clear thinking, and a sense of humor.
 
 <details>
 <summary>🇷🇺 Русский</summary>
-
-# Привет, я just-not-google
 
 > **Не Google, но я тоже помогаю людям находить то, что они ищут — без лишнего шума.**
 
