@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="imgs/just_not_google.png" width="100%" alt="Just-Not-Google Start" />
+</p>
+
 # just-not-google
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
