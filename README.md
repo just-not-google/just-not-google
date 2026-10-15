@@ -8,15 +8,6 @@
 
 I am a developer who believes complexity is not a synonym for quality. I like to make things simple, clear, and a little ironic. In a world where everyone and their dog is building an AI startup on their knees, I prefer to create things that actually solve problems. Even if it does not sound like a revolutionary breakthrough.
 
-I stand for clean code, clear thinking, and a sense of humor. I care about tools that respect the user, the machine, and the person who has to read the code six months later. I like small projects that do one thing well. I like local software that works without asking for permission from a distant server. I like ideas that can be explained without a marketing department.
-
-## What I Believe
-
-* Simplicity is a feature.
-* Clarity is kindness.
-* Local first is a good default.
-* Open source is a way to learn in public.
-
 ## My Philosophy
 
 * **Simplicity over coolness.** If you can explain a tool in 30 seconds, it is good.
