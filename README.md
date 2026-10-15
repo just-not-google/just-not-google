@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/just_not_google.png" width="100%" alt="Just-Not-Google Start" />
+  <img src="imgs/just_not_google_2.png" width="100%" alt="Just-Not-Google Start" />
 </p>
 
 # just-not-google
