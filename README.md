@@ -1,78 +1,51 @@
 <p align="center">
-  <img src="imgs/just_not_google_2.png" width="100%" alt="Just-Not-Google Start" />
+  <img src="imgs/just_not_google_2.png" width="100%" alt="Just Not Google Start" />
 </p>
 
-<details>
-<summary>🇬🇧 English</summary>
-
-> **Not Google, but I also help people find what they're looking for — without the noise.**
+> **Not Google, but I also help people find what they are looking for, without the noise.**
 
 ## About Me
 
-I'm a developer who believes complexity is not a synonym for quality.
+I am a developer who believes complexity is not a synonym for quality. I like to make things simple, clear, and a little ironic. In a world where everyone and their dog is building an AI startup on their knees, I prefer to create things that actually solve problems. Even if it does not sound like a revolutionary breakthrough.
 
-I like to make things simple, clear, and a little ironic. In a world where everyone and their dog is building an "AI startup" on their knees, I prefer to create things that actually solve problems — even if it doesn't sound like a "revolutionary breakthrough."
+I stand for clean code, clear thinking, and a sense of humor. I care about tools that respect the user, the machine, and the person who has to read the code six months later. I like small projects that do one thing well. I like local software that works without asking for permission from a distant server. I like ideas that can be explained without a marketing department.
 
-I stand for clean code, clear thinking, and a sense of humor.
+## What I Believe
+
+* Simplicity is a feature.
+* Clarity is kindness.
+* Local first is a good default.
+* Open source is a way to learn in public.
 
 ## My Philosophy
 
-- **Simplicity over coolness.** If you can explain a tool in 30 seconds — it's good.
-- **Irony helps keep you sane.** In development, as in life, it's important to stay light.
-- **Community is more than code.** I'm open to dialogue, exchanging ideas, and constructive criticism.
+* **Simplicity over coolness.** If you can explain a tool in 30 seconds, it is good.
+* **Irony helps keep you sane.** In development, as in life, it is important to stay light.
+* **Local AI matters.** I like models that run on your own machine, respect your privacy.
+* **Python is a good home.** It is readable, practical, and full of kind people.
 
-> *"Not all heroes wear capes. Some just don't work at Google."*
+## What I Build
 
-© 2026 justnotgoogle
+I build small tools for search, text, data, and local AI. I like projects that sit between a script and a product. They are useful enough to keep, simple enough to understand, and honest enough to say what they do.
 
-</details>
+## Tech and Tools
 
-<details>
-<summary>🇷🇺 Русский</summary>
+* Python
+* Local AI models
+* Data Science libraries
+* Machine Learning frameworks
+* Search and indexing
+* Git and open source workflows
+* Markdown and clear documentation
 
-> **Не Google, но я тоже помогаю людям находить то, что они ищут — без лишнего шума.**
+## Current Focus
 
-## Обо мне
+I am exploring how local AI can help people find information without sending everything to the cloud. I am also interested in simple data tools that make messy information easier to understand. I like the space where Data Science, Machine Learning, and everyday utility meet.
 
-Я разработчик, который верит, что сложность — это не синоним качества. 
+## A Small Manifesto
 
-Мне нравится делать вещи простыми, понятными и немного ироничными. В мире, где каждый второй строит «AI-стартап» на коленке, я предпочитаю создавать то, что действительно решает проблемы — даже если это не звучит как «революционный прорыв».
+Not everything needs to be a startup. Not everything needs to be a platform. Not everything needs to be disruptive. Some things just need to work. Some things just need to be clear. Some things just need to help one person finish one task. That is enough.
 
-Я за то, чтобы код был чистым, мысли — ясными, а юмор — живым.
+> *"Not all heroes wear capes. Some just do not work at Google."*
 
-## Моя философия
-
-- **Простота важнее крутости.** Если инструмент можно объяснить за 30 секунд — значит, он хорош.
-- **Ирония помогает не сойти с ума.** В разработке, как и в жизни, важно сохранять лёгкость.
-- **Сообщество — это больше, чем код.** Я открыт к диалогу, обмену идеями и здоровой критике.
-
-> *«Не все герои носят плащи. Некоторые просто не работают в Google.»*
-
-© 2026 justnotgoogle
-
-</details>
-
-<details>
-<summary>🇨🇳 中文</summary>
-
-> **不是 Google，但我也帮助人们找到他们想要的东西——没有多余的噪音。**
-
-## 关于我
-
-我是一名开发者，相信复杂性并不是质量的同义词。
-
-我喜欢把事情做得简单、清晰，并带一点讽刺。在这个连阿猫阿狗都在草草搭建“AI 创业公司”的世界里，我更愿意创造真正能解决问题的东西——即使它听起来不像“革命性突破”。
-
-我主张干净的代码、清晰的思考，以及幽默感。
-
-## 我的哲学
-
-- **简单胜过炫酷。** 如果一个工具能在 30 秒内解释清楚——那它就是好工具。
-- **讽刺有助于保持理智。** 在开发中，就像在生活中一样，保持轻松很重要。
-- **社区不只是代码。** 我愿意对话、交流想法，并接受建设性的批评。
-
-> *“并非所有英雄都披着斗篷。有些人只是不在 Google 工作。”*
-
-© 2026 justnotgoogle
-
-</details>
+© 2026 just-not-google
