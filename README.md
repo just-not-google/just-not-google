@@ -2,11 +2,6 @@
   <img src="imgs/just_not_google_2.png" width="100%" alt="Just-Not-Google Start" />
 </p>
 
-# just-not-google
-
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-
 <details>
 <summary>🇬🇧 English</summary>
 
@@ -52,6 +47,31 @@ I stand for clean code, clear thinking, and a sense of humor.
 - **Сообщество — это больше, чем код.** Я открыт к диалогу, обмену идеями и здоровой критике.
 
 > *«Не все герои носят плащи. Некоторые просто не работают в Google.»*
+
+© 2026 justnotgoogle
+
+</details>
+
+<details>
+<summary>🇨🇳 中文</summary>
+
+> **不是 Google，但我也帮助人们找到他们想要的东西——没有多余的噪音。**
+
+## 关于我
+
+我是一名开发者，相信复杂性并不是质量的同义词。
+
+我喜欢把事情做得简单、清晰，并带一点讽刺。在这个连阿猫阿狗都在草草搭建“AI 创业公司”的世界里，我更愿意创造真正能解决问题的东西——即使它听起来不像“革命性突破”。
+
+我主张干净的代码、清晰的思考，以及幽默感。
+
+## 我的哲学
+
+- **简单胜过炫酷。** 如果一个工具能在 30 秒内解释清楚——那它就是好工具。
+- **讽刺有助于保持理智。** 在开发中，就像在生活中一样，保持轻松很重要。
+- **社区不只是代码。** 我愿意对话、交流想法，并接受建设性的批评。
+
+> *“并非所有英雄都披着斗篷。有些人只是不在 Google 工作。”*
 
 © 2026 justnotgoogle
 
