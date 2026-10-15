@@ -24,24 +24,6 @@ I stand for clean code, clear thinking, and a sense of humor. I care about tools
 * **Local AI matters.** I like models that run on your own machine, respect your privacy.
 * **Python is a good home.** It is readable, practical, and full of kind people.
 
-## What I Build
-
-I build small tools for search, text, data, and local AI. I like projects that sit between a script and a product. They are useful enough to keep, simple enough to understand, and honest enough to say what they do.
-
-## Tech and Tools
-
-* Python
-* Local AI models
-* Data Science libraries
-* Machine Learning frameworks
-* Search and indexing
-* Git and open source workflows
-* Markdown and clear documentation
-
-## Current Focus
-
-I am exploring how local AI can help people find information without sending everything to the cloud. I am also interested in simple data tools that make messy information easier to understand. I like the space where Data Science, Machine Learning, and everyday utility meet.
-
 ## A Small Manifesto
 
 Not everything needs to be a startup. Not everything needs to be a platform. Not everything needs to be disruptive. Some things just need to work. Some things just need to be clear. Some things just need to help one person finish one task. That is enough.
